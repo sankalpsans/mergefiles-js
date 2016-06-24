@@ -9,3 +9,8 @@ var mergeJob = {
 ```
 * Run `nodejs ./build-job.js`
 * Enjoy.
+
+# TODO
+* nom packaging
+* Tests
+* (optional, might skip) Minify bundle
