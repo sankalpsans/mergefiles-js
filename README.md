@@ -11,6 +11,6 @@ var mergeJob = {
 * Enjoy.
 
 # TODO
-* nom packaging
+* npm packaging
 * Tests
 * (optional, might skip) Minify bundle
