@@ -1,3 +1,6 @@
+# Screenshot
+![Screenshot of a build taking place](/assets/build.png "Fig 1: Example of how a typical build looks")
+
 # Quick and dirty usage
 * Include the library, and create your merge jobs as the following file `build-job.js`
 ```
