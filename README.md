@@ -1,3 +1,6 @@
+# Why?
+I need a fast, lightweight build JS system with no dependencies. And I don't trust "conventional" JS because this is not a satire -> https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558
+
 # Screenshot
 ![Screenshot of a build taking place](/assets/build.png "Fig 1: Example of how a typical build looks")
 
